@@ -1,8 +1,8 @@
 
 
-# Edu Module Doc :rocket:
+# Edu Module Doc 🙈
 
-> 快速查看教育云工程的`README`以及`CHANGELOG`. 项目主要来源于[edu-front-spec](https://g.hz.netease.com/edu-front-spec),[edu-front-vendor](https://g.hz.netease.com/edu-front-vendor),[edu-frontend](https://g.hz.netease.com/edu-frontend)`GitLab` 小组.
+> 快速查看教育云工程的`README`以及`CHANGELOG`. 工程主要来源于[edu-front-spec](https://g.hz.netease.com/edu-front-spec),[edu-front-vendor](https://g.hz.netease.com/edu-front-vendor),[edu-frontend](https://g.hz.netease.com/edu-frontend) `GitLab` 小组.
 
 ## 安装
 
@@ -32,7 +32,6 @@ Windows, Linux, MacOS
 ## 感谢
 
 * [VSCode](https://code.visualstudio.com/)
-
 
 ## 开源协议
 
