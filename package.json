@@ -1,8 +1,8 @@
 {
   "name": "vscode-edu-module-doc",
-  "displayName": "vscode-edu-module-doc",
-  "description": "Edu Module Doc",
-  "version": "0.0.1",
+  "displayName": "Edu Module Doc",
+  "description": "faster check edu project readme and changelog",
+  "version": "0.0.2",
   "publisher": "nedu",
   "engines": {
     "vscode": "^1.18.0"
